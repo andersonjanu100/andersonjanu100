@@ -8,3 +8,5 @@ Estudo programação pelo Mimo
 Estudo inglês pelo Duolingo
 Email: andersonjanu@hotmail.com
 
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=andersonjanu100&theme=merko&locale=pt_BR&card_width=550" alt="GitHub Streak" /></a>
+
